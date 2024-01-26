@@ -6,3 +6,5 @@ Code equipped with simple WWWW server for displaying received data as well as UD
 Sample python code for data exchange over UDP provided.
 
 ![alt text](https://github.com/sq2dk/WX-sensor-rx-server/blob/main/wx_sensor.jpg?raw=true)
+
+![alt text](https://github.com/sq2dk/WX-sensor-rx-server/blob/main/Screenshot.jpg?raw=rtue)
