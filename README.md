@@ -5,4 +5,4 @@ Wich does all the heavy lifting when it comes to radio communication.
 Code equipped with simple WWWW server for displaying received data as well as UDP server for data exchange with other network devices.
 Sample python code for data exchange over UDP provided.
 
-![alt text]([https://github.com/sq2dk/WX-sensor-rx-server/edit/main/sensor.jpg)?raw=true
+![alt text](https://github.com/sq2dk/WX-sensor-rx-server/blob/main/wx_sensor.jpg?raw=true)
